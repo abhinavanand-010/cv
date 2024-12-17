@@ -9,7 +9,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Abhinav Anand",
-  initials: "Ab",
+  initials: "Abhinav",
   location: "Hubli, Karnataka, India",
   locationLink: "https://www.google.com/maps/place/Hubli",
   about:
@@ -32,11 +32,6 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/abhinav-anand-987450234/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "https://x.com/abhinav_2398/",
-        icon: XIcon,
       },
     ],
   },
@@ -61,7 +56,9 @@ export const RESUME_DATA = {
     "JavaScript",
     "React.js",
     "Node.js",
+    "Linux",
     "Operating Systems",
+    "Computer Networking",
     "Cloud Computing(Beginner)",
   ],
   projects: [
